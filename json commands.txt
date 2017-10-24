@@ -1,0 +1,3 @@
+{"location":"entry","device":"light", "state":"on","query":"cmd"}
+{"location":"entry","device":"light", "state":"off","query":"cmd"}
+

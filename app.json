@@ -1,0 +1,7 @@
+{
+  "name": "IFTTT Alexa & ESP",
+  "description": "Works with IOT devices over the firewall with Alexa skills",
+  "repository": "https://github.com/miki105/IFTTT-Alexa-Control-Single-Device",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["esp8266", "with ifttt", "iot", "arduino", "Alexa Skills"]
+}
